@@ -1,0 +1,35 @@
+.tableau{
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+}
+
+  .tableau img{
+    height;
+    width;
+    border-width:1px;
+    overflow:hidden;
+    border-style:solid;
+    border-color:black;
+    margin:5px;
+    margin-top: 5px;
+}
+
+.tableau1{
+  display: flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+}
+
+  .tableau1 img{
+    height;
+    width;
+    border-width:1px;
+    overflow:hidden;
+    border-style:solid;
+    border-color:black;
+    margin:5px;
+    margin-top: 5px;
+}
